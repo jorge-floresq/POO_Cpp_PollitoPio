@@ -1,0 +1,110 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="PollitoPio">
+    <Position X="7.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAABAAAABAAAAQAAAgAQAAAAAAAAAAIAAAAA=</HashCode>
+      <FileName>PollitoPio.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cabra">
+    <Position X="3.75" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAIAAAAAAAAAAACAAAAABAAQAAAAAAAAAAAAAACA=</HashCode>
+      <FileName>Cabra.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cordero">
+    <Position X="5.75" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAIAAAAEAAAAAAAAAAAABAAQAAAAAAAAAABAAAAA=</HashCode>
+      <FileName>Cordero.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Gallina">
+    <Position X="1.75" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAJAAAAAAAAAAAAAAAAABAAQAAAAAAAABAAAAAAA=</HashCode>
+      <FileName>Gallina.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Gallo">
+    <Position X="3.5" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAIIAAAAAgAAAAAAAAAAABAAQAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Gallo.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Gato">
+    <Position X="5.75" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAIAAAAAAAAEAAAAAAAABAAQCAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Gato.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Paloma">
+    <Position X="9" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAUAAIAAAAAAAAAAAAAAAAABAAQAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Paloma.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Pavo">
+    <Position X="13.5" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQCAIAAAAAAQAAAAAAAAAABAAQAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Pavo.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Perro">
+    <Position X="11.25" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEQAAIAAAAAAAAAAAAAAAAABEAQAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Perro.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Pollito">
+    <Position X="1.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAIAAAAAAAAAAAAAACAABAAQAAAAAAAACAAAAAAA=</HashCode>
+      <FileName>Pollito.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Toro">
+    <Position X="11.25" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgQAAIAAAQAAAAAAAAAAAAABAAQAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Toro.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tractor">
+    <Position X="13.5" Y="4" Width="1.5" />
+    <InheritanceLine Type="PollitoPio" FixedToPoint="true">
+      <Path>
+        <Point X="8" Y="3.267" />
+        <Point X="8" Y="3.625" />
+        <Point X="14.75" Y="3.625" />
+        <Point X="14.75" Y="4" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAQAAIAAAAAAAAAAAAAAAAABAAQAgCAAAAAAAAAAAAA=</HashCode>
+      <FileName>Tractor.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Vaca">
+    <Position X="9" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAIAAAAAAAAAAAAAAAEABAAQAAAAAAAAAAABAAAA=</HashCode>
+      <FileName>Vaca.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="Genero">
+    <Position X="4.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAgAAA=</HashCode>
+      <FileName>PollitoPio.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
